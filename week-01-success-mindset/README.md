@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Most people around me believe time management is about waking up very early, filling the day with tasks, and staying busy from morning till night. I strongly disagree. I believe real time management is about protecting energy and focus, not squeezing more activities into a day. I’ve seen people wake up at 4am, but spend most of the day distracted, tired, and stressed.
+From my experience, one or two focused hours of deep work beats a whole day of scattered effort. When I deliberately choose fewer tasks and give them my full attention, I get better results and feel less overwhelmed. Many people think this approach is lazy or slow, but it actually creates consistency and long-term progress without burnout. Managing attention matters more than managing hours.
 
 ---
 
@@ -55,11 +56,12 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+People will disagree with you when you try to improve yourself
+
 
 ### Evidence from my life
 
-Add your answer here...
+When I started cutting down social time to focus on learning DevOps and improving my routine, some people joked about it or said I was doing “too much.” I noticed that the more disciplined I became, the more resistance I faced. But over time, the same people began asking how I learned certain skills. The disagreement didn’t stop progress—it confirmed I was changing.
 
 ---
 
@@ -67,23 +69,24 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Progress only happens when you don’t give up
+
 
 ### Evidence from my life
 
-Add your answer here...
-
+There were weeks when learning felt slow and confusing, especially with Linux and cloud concepts. I felt tempted to quit or jump to something else. Instead, I stayed with it, even when progress felt invisible. Months later, I could understand logs, debug basic issues, and follow technical conversations with confidence. Persistence turned confusion into clarity
 ---
 
 ## Truth #3
 
 ### Truth
 
-Add your answer here...
+Growth starts the moment you take the first uncomfortable step
+
 
 ### Evidence from my life
 
-Add your answer here...
+Applying for internships, posting learning updates, and asking questions publicly felt uncomfortable at first. Each step came with fear of being judged. But every time I acted anyway, new opportunities opened—feedback, connections, and learning clarity. Waiting for confidence never worked; confidence came after taking action.
 
 ---
 
@@ -135,13 +138,23 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+###  2.0 Version (3–7 years later)
+
+By 2029, Aiyudubie had built a solid reputation as a dependable DevOps engineer known for calm problem-solving and consistent delivery. He transitioned from entry-level IT support into a mid-level DevOps role, Relocated to finland working remotely with a fintech and SaaS-focused team serving global markets. His work focused on improving deployment reliability, automating repetitive tasks, and maintaining cloud infrastructure with cost awareness.
+
+He shipped multiple real-world projects documented on GitHub, including CI/CD pipelines using GitHub Actions, Dockerized applications deployed on AWS, and Terraform configurations for basic cloud infrastructure. One of his most practical contributions was an automation script that simplified server backups and monitoring for small teams, which gained traction among global developers.
+
+Aiyudubie earned relevant certifications such as AWS Cloud Practitioner and AWS Solutions Architect Associate, not as trophies, but as proof of hands-on understanding. He maintained a simple technical blog where he broke down complex DevOps concepts in plain language, attracting beginners who appreciated clarity over buzzwords. Some of his LinkedIn posts sparked conversations among early-career engineers navigating the same learning struggles.
+
+Beyond personal growth, he contributed to the community by mentoring beginners through small study groups and online sessions. He helped nonprofits and small businesses optimize their cloud usage, cutting unnecessary costs and improving uptime. His leadership style remained practical and grounded — focused on systems, documentation, and steady improvement rather than noise.
+
+This version of Aiyudubie was built through discipline, routine, and integrity. He proved that quiet consistency, applied daily, could transform skill, confidence, and opportunity.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 
 ### Public Link
 
-Paste your link here:
-
-`__________________________`
+`https://medium.com/@aiyusboss/my-2-0-version-3-7-years-later-cc56cb035820`
 
 ---
 
@@ -165,7 +178,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -173,7 +186,8 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Cutting corners made me feel uneasy and disconnected from my own growth. Even when no one noticed, I felt an internal pressure—like I was standing on weak ground. There was constant fear of being exposed, especially when asked questions that tested real understanding. Instead of confidence, I felt anxiety and self-doubt.
+Over time, it reduced the satisfaction of small wins because I knew I hadn’t fully earned them. That feeling stayed longer than the short-term benefit. The experience taught me that integrity isn’t just moral—it’s practical. Doing things properly builds peace of mind, real confidence, and long-term trust in myself.
 
 ---
 
@@ -199,16 +213,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits — James Clear
+2. Deep Work — Cal Newport
+3. The Power of Habit — Charles Duhigg
+4. Man’s Search for Meaning — Viktor E. Frankl
+5. Think and Grow Rich — Napoleon Hill
+6. As a Man Thinketh — James Allen
+7. The Richest Man in Babylon — George S. Clason
+8. Getting Things Done — David Allen
+9. Mindset — Carol S. Dweck
+10. The Psychology of Money — Morgan Housel
 
 ---
 
@@ -237,16 +251,18 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* Skills practiced (Linux, cloud, CI/CD)
+* Projects completed or improved
+* GitHub activity and documentation
+* Deep work sessions per week
+* Phone-free focus blocks
+* Sleep quality and consistency
+* Physical activity per week
+* Monthly income and savings
+* Monthly expenses awareness
+* Meaningful professional conversations
+* Weekly review completion
 
 ---
 
@@ -268,11 +284,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+Yes
 
 ---
 
@@ -290,7 +306,21 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Weekly routine:
+Mon–Fri:
+
+Wake by 7am
+15-minute walk or stretch
+30–45 minutes of focused skill practice
+
+Saturday:
+
+DMI assignments + hands-on project work
+
+Sunday:
+
+Weekly review, planning, rest
+
 
 ---
 
@@ -298,11 +328,12 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+DMI work: Wednesday & Friday (8–9pm)
+Saturday afternoon deep session
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+2–3 focused sessions weekly
 
 ---
 
@@ -316,7 +347,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+* Phone on silent during focus blocks
+* No social media before noon
+* Single quiet workspace with headphones
+* Clear task list before each session
+
 
 ---
 
@@ -324,28 +359,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I don’t lack discipline. I lacked systems
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Phone distractions break momentum fast
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+ 20-minute morning brain dump at 7:30am daily before work.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/ediagbonya-aiyudubie_dmi-devops-agenticai-share-7478812962896666625-SF4_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-3rxMBvvmXeP1jo9naMf55DfVF2Gq2CJg`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **https://www.linkedin.com/posts/ediagbonya-aiyudubie_dmi-devops-agenticai-share-7478812962896666625-SF4_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-3rxMBvvmXeP1jo9naMf55DfVF2Gq2CJg**  
+- Blog / Medium : **https://medium.com/@aiyusboss/my-2-0-version-3-7-years-later-cc56cb035820**  
 
 ---
 
