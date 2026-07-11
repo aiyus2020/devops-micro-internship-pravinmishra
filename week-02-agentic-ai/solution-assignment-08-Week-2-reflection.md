@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![blog](screenshots/blog.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@aiyusboss/week-2-reflection-learning-to-work-with-ai-not-just-use-it-2a25669e7fed`
 
 ---
 

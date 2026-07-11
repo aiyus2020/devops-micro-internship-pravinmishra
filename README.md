@@ -74,7 +74,7 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
 <!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+ [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
@@ -135,7 +135,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ solved | https://www.linkedin.com/posts/ediagbonya-aiyudubie_dmi-devops-agenticai-share-7478812962896666625-SF4_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-3rxMBvvmXeP1jo9naMf55DfVF2Gq2CJg | https://medium.com/@aiyusboss/my-2-0-version-3-7-years-later-cc56cb035820 |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed |  ✅ solved | —https://www.linkedin.com/posts/ediagbonya-aiyudubie_my-20-version-37-years-later-by-2029-share-7416519672768057344-SXkT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-3rxMBvvmXeP1jo9naMf55DfVF2Gq2CJg| https://medium.com/@aiyusboss/week-2-reflection-learning-to-work-with-ai-not-just-use-it-2a25669e7fed?sharedUserId=aiyusboss |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |

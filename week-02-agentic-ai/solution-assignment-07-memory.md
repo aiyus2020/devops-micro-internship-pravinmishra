@@ -20,7 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+![alt text](screenshots/mem.png)
 
 ---
 
@@ -34,13 +34,13 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+![alt text](screenshots/conf.png)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+![alt text](screenshots/memf.png)
 
 ---
 
@@ -54,7 +54,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+
 
 ---
 
@@ -68,7 +68,9 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![alt text](<screenshots/recall color.png>)
+
+![alt text](screenshots/break.png)
 
 ---
 
@@ -76,7 +78,7 @@ Add your screenshot here.
 
 Add your screenshot here.
 
----
+![alt text](screenshots/jav.png)
 
 # Submission Instructions
 
@@ -91,7 +93,7 @@ Add your screenshot here.
 
 Paste your Linkedin post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/ediagbonya-aiyudubie_devops-claudecode-agenticai-share-7481499157757808640-jBnb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-3rxMBvvmXeP1jo9naMf55DfVF2Gq2CJg`
 
 ---
 
@@ -99,7 +101,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/aiyus2020/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
